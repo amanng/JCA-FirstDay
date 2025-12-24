@@ -4,3 +4,4 @@ GitHub First Day Practical Assignment
 This is the first practical assignment
 Shiferaw Nigatu
 Jedan Code Academy
+README
